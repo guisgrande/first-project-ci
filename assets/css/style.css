@@ -43,7 +43,7 @@ h1, h3, h4, h6 {
 /* Footer */
 footer {
     text-align: center;
-    background-color: rgb(179, 178, 178);
+    background-color: rgba(39, 39, 39);
 }
 
 footer li {
@@ -53,11 +53,11 @@ footer li {
 
 .social-links i {
     font-size: 300%;
-    color: green;
+    color: yellow;
     padding: 0;
     margin: 15px;
 }
 
 .social-links i:hover {
-    color: rgba(0, 71, 0, 0.5)
+    color: rgba(129, 143, 0, 0.5)
 }
