@@ -7,3 +7,25 @@ body {
 h1, h3, h4, h6 {
     font-family: Roboto Slab, sans-serif;
 }
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: rgb(179, 178, 178);
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links i {
+    font-size: 300%;
+    color: green;
+    padding: 0;
+    margin: 15px;
+}
+
+.social-links i:hover {
+    color: rgba(0, 71, 0, 0.5)
+}
