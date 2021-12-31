@@ -38,7 +38,34 @@ h1, h3, h4, h6 {
     justify-content: center;
 }
 
+/* Style for Nav - menu */
 
+#menu {
+    text-align: center;
+    font-size: 125%;
+    background-color: rgb(240, 224, 84);
+    height: 40px;
+}
+
+#menu li {
+    list-style: none;
+    display: inline-block;
+    background-color: #ffffff;
+    margin: 15px;
+    position: relative;
+    bottom: 7px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    background-color: black;
+    color: rgb(240, 224, 84);
+    border-bottom: 3px solid rgb(240, 224, 84);
+}
 
 /* Footer */
 footer {
