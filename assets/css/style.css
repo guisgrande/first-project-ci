@@ -8,6 +8,21 @@ h1, h3, h4, h6 {
     font-family: Roboto Slab, sans-serif;
 }
 
+/* Header */
+
+.banner-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#banner-allwin {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
 /* Footer */
 footer {
     text-align: center;
