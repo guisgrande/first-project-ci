@@ -97,6 +97,14 @@ footer li {
 /* Style for Home page */
 /* About-poker-coder style */
 
+#home-image {
+    height: 900px;
+    width: 100%;
+    background: url('../images/man-cards-about.jpg') no-repeat;
+    background-size: 40%;
+    background-position-x: center;
+}
+
 #about-poker-coder {
     text-align: center;
 }
