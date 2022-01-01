@@ -48,6 +48,10 @@ body {
     height: 40px;
 }
 
+#menu ul {
+    margin-top: 0px;
+}
+
 #menu li {
     list-style: none;
     display: inline-block;
