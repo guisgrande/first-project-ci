@@ -97,6 +97,10 @@ footer li {
 /* Style for Home page */
 /* About-poker-coder style */
 
+#about-poker-code {
+    position: relative;
+}
+
 #home-image {
     height: 900px;
     width: 100%;
@@ -107,12 +111,15 @@ footer li {
 
 #home-cover-text {
     text-align: center;
-    background-color: rgba(97, 97, 97, 0.6);
+    background-color: rgba(97, 97, 97, 0.9);
     color: #ffffff;
     width: 35%;
     padding: 10px;
     display: flexbox;
     margin-left: auto;
-    margin-right: auto;   
+    margin-right: auto;
+    position: absolute;
+    left: 615px;
+    top: 950px;
 }
 
