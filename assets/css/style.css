@@ -183,3 +183,48 @@ footer li {
     border-radius: 50%;
     border: #ffffff 1px solid;
 }
+
+/* Style for history.html page */
+/* Style for history-of-poker section */
+
+#history-of-poker {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#history-text-container {
+    width: 50%;
+    height: auto;
+}
+
+#history-container {
+    position: relative;
+}
+
+#history-image-1 img {
+    width: 250px;
+    height: auto;
+}
+
+#history-image-2 img {
+    width: 400px;
+    height: auto;
+    left: 130px;
+    bottom: 55px;
+}
+
+#history-image-3 img {
+    width: 200px;
+    height: auto;
+    left: 15px;
+    bottom: 130px;
+}
+
+.history-image-box img {
+    border-radius: 2%;
+    border: black 1px solid;
+    position: relative;
+    display: flexbox;
+    justify-content: right;
+}
