@@ -228,3 +228,24 @@ footer li {
     display: flexbox;
     justify-content: right;
 }
+
+/* Style for tournment section */
+
+#tournments {
+    display: flex;
+    justify-content: center;
+}
+
+#tournments-container {
+    width: 450px;
+    height: auto;
+    background-color: rgba(44, 44, 44, 0.7);
+    padding: 10px;
+}
+
+#tournments-container > h3 {
+    text-align: center;
+}
+#tournments-container > p {
+    text-align: justify;
+}
