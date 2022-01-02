@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Roboto+Slab&display=swap');
 
+.background-black {
+    background-color: black;
+}
+
 /* Font Style */
 h1, h2, h3, h4 {
     font-family: Roboto Slab, sans-serif;
@@ -144,6 +148,7 @@ footer li {
 
 #players {
     text-align: center;
+    color: #ffffff;
 }
 
 #top-place {
@@ -153,7 +158,6 @@ footer li {
     padding: 10px;
     margin-bottom: 30px;
     display: inline-block;
-    background-color: blue;
 }
 
 #left-place {
@@ -177,5 +181,5 @@ footer li {
     width: 350px;
     height: 350px;
     border-radius: 50%;
-    border: black 1px solid;
+    border: #ffffff 1px solid;
 }
