@@ -139,3 +139,37 @@ footer li {
     margin: 25px;
     display: inline-grid;
 }
+
+/* Style for players section */
+
+#players {
+    text-align: center;
+}
+
+#top-place {
+    text-align: center;
+    width: 70%;
+    height: 120px;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+    background-color: blue;
+}
+
+#left-place {
+    float: left;
+}
+
+#center-place {
+    margin: 0 auto;
+}
+
+#right-place {
+    float: right;
+}
+
+.players-options {
+    display: inline-block;
+    width: 33%;
+    background-color: coral;
+}
