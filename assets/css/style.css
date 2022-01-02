@@ -171,5 +171,11 @@ footer li {
 .players-options {
     display: inline-block;
     width: 33%;
-    background-color: coral;
+}
+
+.circle-container img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: black 1px solid;
 }
