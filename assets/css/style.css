@@ -180,18 +180,19 @@ footer li {
 /* Style for history-of-poker section */
 
 #history-of-poker {
-    margin-top: 35px;
+    margin-top: 55px;
     display: flex;
     justify-content: space-evenly;
 }
 
 #history-text-container {
-    width: 50%;
+    width: 45%;
     height: auto;
+    text-align: justify;
 }
 
 #history-container {
-    position: relative;
+    width: 30%;
 }
 
 #history-image-1 img {
@@ -200,14 +201,14 @@ footer li {
 }
 
 #history-image-2 img {
-    width: 400px;
+    width: 350px;
     height: auto;
     left: 130px;
     bottom: 55px;
 }
 
 #history-image-3 img {
-    width: 200px;
+    width: 210px;
     height: auto;
     left: 15px;
     bottom: 130px;
@@ -232,6 +233,7 @@ footer li {
     width: 450px;
     height: auto;
     background-color: rgba(44, 44, 44, 0.7);
+    border: white 2px outset;
     padding: 10px;
 }
 
@@ -254,6 +256,7 @@ footer li {
 
 #wsop-text-container {
     width: 300px;
+    text-align: justify;
 }
 
 #wsop-table-container {
