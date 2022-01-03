@@ -309,13 +309,15 @@ footer li {
     background-color: rgba(44, 44, 44, 0.7);
     padding: 10px;
     margin-top: 25px;
+    border: white 2px outset;
 }
 
 /* Style for rules section */
 
 #rules-texas-holdem {
     text-align: justify;
-    margin-top: 35px;
+    padding: 10px;
+    margin: 35px 0 35px 0;
     display: flex;
     justify-content: space-around;
 }
@@ -329,10 +331,12 @@ footer li {
 
 #hand-rankings {
     text-align: justify;
-    margin-top: 60px;
+    padding: 10px;
+    margin: 35px 0 35px 0;
     display: flex;
     justify-content: space-around;
-    background-color: rosybrown;
+    align-items: center;
+    background-color: rgb(39, 39, 39);
 }
 
 #hand-image-container img {
@@ -344,7 +348,8 @@ footer li {
 
 #bets-positions {
     text-align: justify;
-    margin: 60px 0 40px 0;
+    padding: 10px;
+    margin: 35px 0 40px 0;
     display: flex;
     justify-content: space-around;
 }
