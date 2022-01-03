@@ -359,3 +359,59 @@ footer li {
     width: 800px;
     height: auto;
 }
+
+/* Media queries */
+
+@media screen and (max-width: 1080px) {
+    /* Querie for banner - title */
+    #banner-text h1 {
+        font-size: 40px;
+    }
+
+    #banner-image img {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    /* Querie for banner - title */
+    #banner-text h1 {
+        font-size: 30px;
+    }
+
+    #banner-image img {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    /* Querie for banner - title */
+    #banner-text h1 {
+        font-size: 25px;
+    }
+
+    #banner-image img {
+        width: 300px;
+    }
+
+    /* Querie for banner - title */
+    #menu {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    /* Querie for banner - title */
+    #banner-text h1 {
+        font-size: 15px;
+    }
+
+    #banner-image img {
+        width: 250px;
+    }
+
+    /* Querie for banner - title */
+    #menu {
+        font-size: 12px;
+    }
+}
