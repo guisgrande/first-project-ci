@@ -129,12 +129,12 @@ footer li {
 
 #questions {
     text-align: center;
+    margin-top: 25px;
 }
 
 .questions-box {
     background-color: rgba(44, 44, 44, 0.7);
-    color: #ffffff;
-    border: black 2px solid;
+    border: white 2px outset;
     width: 40%;
     height: 400px;
     padding: 10px;
@@ -146,40 +146,34 @@ footer li {
 
 #players {
     text-align: center;
-    color: #ffffff;
 }
 
 #top-place {
     text-align: center;
-    width: 70%;
-    height: 120px;
+    width: 40%;
+    height: auto;
     padding: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     display: inline-block;
 }
 
-#left-place {
-    float: left;
-}
-
-#center-place {
-    margin: 0 auto;
-}
-
-#right-place {
-    float: right;
+#players-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
 }
 
 .players-options {
-    display: inline-block;
-    width: 33%;
+    width: 30%;
+    padding: 10px;
 }
 
 .circle-container img {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
-    border: #ffffff 1px solid;
+    border: white 2px double;
 }
 
 /* Style for history.html page */
