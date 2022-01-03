@@ -272,3 +272,44 @@ footer li {
 #wsop-video-container p {
     text-align: center;
 }
+
+/* Style for how-to-play.html page */
+
+/* Style rule for divs elements */
+
+.forty-auto-size {
+    width: 40%;
+    height: auto;
+}
+/* Style for how-play-poker section */
+
+#how-play-poker {
+    text-align: center;
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+#how-play-container {
+    width: 40%;
+}
+
+#how-play-container p {
+    background-color: rgba(44, 44, 44, 0.7);
+    padding: 10px;
+    margin-top: 25px;
+}
+
+/* Style for rules section */
+
+#rules-texas-holdem {
+    text-align: justify;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#rules-image-container img {
+    width: 100%;
+    height: auto;
+}
