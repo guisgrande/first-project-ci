@@ -280,7 +280,9 @@ footer li {
 .forty-auto-size {
     width: 40%;
     height: auto;
+    margin-top: 25px;
 }
+
 /* Style for how-play-poker section */
 
 #how-play-poker {
@@ -310,6 +312,21 @@ footer li {
 }
 
 #rules-image-container img {
+    width: 100%;
+    height: auto;
+}
+
+/* Style for hands ranking section */
+
+#hand-rankings {
+    text-align: justify;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rosybrown;
+}
+
+#hand-image-container img {
     width: 100%;
     height: auto;
 }
