@@ -264,6 +264,20 @@ footer li {
     height: auto;
 }
 
+#wsop-table-container table {
+    border: white 2px outset;
+}
+
+#wsop-table-container table td,th {
+    padding: 3px;
+    border: white 1px solid;
+}
+
+#wsop-table-container table th {
+    background-color: lightgrey;
+    color: black;
+}
+
 #wsop-video-container p {
     text-align: center;
 }
