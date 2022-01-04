@@ -189,13 +189,13 @@ footer li {
 }
 
 #history-text-container {
-    width: 45%;
+    width: 750px;
     height: auto;
     text-align: justify;
 }
 
 #history-container {
-    width: 30%;
+    width: 500px;
 }
 
 #history-image-1 img {
@@ -371,6 +371,31 @@ footer li {
     .questions-box {
         font-size: 14px;
     }
+
+    /* Querie for history.html */
+    /* Querie for history-of-poker section */
+    #history-text-container {
+        width: 600px;
+        font-size: 13px;
+    }
+    
+    #history-container {
+        width: 400px;
+    }
+    
+    #history-image-1 img {
+        width: 200px;
+    }
+    
+    #history-image-2 img {
+        width: 300px;
+        left: 100px;
+    }
+    
+    #history-image-3 img {
+        width: 160px;
+        left: 15px;
+    }
 }
 
 @media screen and (max-width: 1080px) {
@@ -399,6 +424,17 @@ footer li {
     .circle-container img {
         width: 250px;
         height: 250px;
+    }
+
+    /* Querie for history.html */
+    /* Querie for history-of-poker section */
+    #history-of-poker {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #history-container {
+        margin-top: 20px;
     }
 }
 
@@ -456,6 +492,31 @@ footer li {
         width: 200px;
         height: 200px;
     }
+
+    /* Querie for history.html */
+    /* Querie for history-of-poker section */
+    #history-text-container {
+        width: 500px;
+        font-size: 12px;
+    }
+    
+    #history-container {
+        width: 300px;
+    }
+    
+    #history-image-1 img {
+        width: 150px;
+    }
+    
+    #history-image-2 img {
+        width: 250px;
+        left: 50px;
+    }
+    
+    #history-image-3 img {
+        width: 110px;
+        bottom: 100px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -497,6 +558,13 @@ footer li {
     #questions div {
         margin-left: 10px;
         margin-right: 10px;
+    }
+
+    /* Querie for history.html */
+    /* Querie for history-of-poker section */
+    #history-text-container {
+        width: 300px;
+        height: auto;
     }
 }
 
