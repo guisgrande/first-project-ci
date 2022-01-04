@@ -45,6 +45,7 @@ body {
 /* Style for Nav - menu */
 
 #menu {
+    padding: 0;
     text-align: center;
     font-size: 18px;
     background-color: rgb(240, 224, 84);
@@ -53,6 +54,7 @@ body {
 
 #menu ul {
     margin-top: 0px;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -436,6 +438,12 @@ footer li {
     #history-container {
         margin-top: 20px;
     }
+
+    /* Querie for tournments section */
+    #tournments-container {
+        width: 300px;
+        font-size: 13px;
+    }
 }
 
 @media screen and (max-width: 880px) {
@@ -529,10 +537,9 @@ footer li {
         width: 300px;
     }
 
-    /* Querie for banner - title */
+    /* Querie for menu - nav */
     #menu {
-        font-size: 12px;
-        height: 39px;
+        font-size: 15px;
     }
 
     /* Querie for footer - icons */
@@ -541,7 +548,7 @@ footer li {
     }
 
     /* Querie for index.html */
-    /* QUerie for about-poker-coder section */
+    /* Querie for about-poker-coder section */
     #home-image {
         height: 500px;
         width: 350px;
@@ -566,6 +573,12 @@ footer li {
         width: 300px;
         height: auto;
     }
+
+    /* Querie for tournments section */
+    #tournments-container {
+        width: 250px;
+        font-size: 12px;
+    }   
 }
 
 @media screen and (max-width: 400px) {
@@ -576,12 +589,6 @@ footer li {
 
     #banner-image img {
         width: 250px;
-    }
-
-    /* Querie for banner - title */
-    #menu {
-        font-size: 12px;
-        height: 39px;
     }
 
     /* Querie for index.html */
