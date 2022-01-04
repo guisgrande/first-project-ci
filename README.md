@@ -1,5 +1,6 @@
  # Portifolio Project - 1
- 
+ README - not finished
+
  # Poker Coder
 
 Poker Coder is a website designed with the purpose of teaching the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes the readers can understand what is necessary to start playing and having fun.
@@ -8,6 +9,11 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ## Features
 
 ### Existing Features
+
+- __Navigation Bar__
+
+- Present on all pages (Home/History/How to play) to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the banner. 
+- Shadow effect had as a query the following page for its implementation on the website. [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp).
 
 ### Features Left to Implement
 
