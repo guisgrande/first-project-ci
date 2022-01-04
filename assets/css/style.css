@@ -12,7 +12,6 @@ body {
 }
 
 /* Header */
-
 #container-banner {
     display: flex;
     justify-content: space-between;
@@ -22,7 +21,6 @@ body {
 }
 
 /* Style for title */
-
 #main-title {
     font-size: 60px;
     color: #ffffff;
@@ -36,14 +34,12 @@ body {
 }
 
 /* Style for banner image */
-
 #banner-image img {
     width: 900px;
     height: auto;
 }
 
 /* Style for Nav - menu */
-
 #menu {
     padding: 0;
     text-align: center;
@@ -107,7 +103,6 @@ footer li {
 
 /* Style for Home page */
 /* About-poker-coder style */
-
 #about-poker-coder {
     display: flex;
     flex-direction: column-reverse;
@@ -132,7 +127,6 @@ footer li {
 }
 
 /* Style for questions section */ 
-
 #questions {
     text-align: center;
 }
@@ -148,7 +142,6 @@ footer li {
 }
 
 /* Style for players section */
-
 #players {
     text-align: center;
 }
@@ -183,7 +176,6 @@ footer li {
 
 /* Style for history.html page */
 /* Style for history-of-poker section */
-
 #history-of-poker {
     margin-top: 55px;
     display: flex;
@@ -228,7 +220,6 @@ footer li {
 }
 
 /* Style for tournment section */
-
 #tournments {
     display: flex;
     justify-content: center;
@@ -250,7 +241,6 @@ footer li {
 }
 
 /* Style for wsop-last-champions section */
-
 #wsop-last-champions {
     display: flex;
     flex-direction: row;
@@ -289,7 +279,6 @@ footer li {
 
 /* Style for how-to-play.html page */
 /* Style for how-play-poker section */
-
 #how-play-poker {
     text-align: center;
     margin-top: 35px;
@@ -309,7 +298,6 @@ footer li {
 }
 
 /* Style for rules + hands-rankings + bets-positions sectiond */
-
 .position-model {
     display: flex;
     justify-content: space-around;
@@ -337,7 +325,6 @@ footer li {
 }
 
 /* !!Media queries!! */
-
 @media screen and (max-width: 1300px) {
 
     /* Querie for index.html */
@@ -387,6 +374,18 @@ footer li {
     }
 
     #wsop-video-container p {
+        font-size: 12px;
+    }
+
+    /* Querie for how-to-play.hmtl */
+    /* Querie for rules + hands-rankings + bets-positions sections */
+    .image-model img {
+        width: 400px;
+        padding: 10px;
+    }
+    
+    .text-model {
+        width: 500px;
         font-size: 12px;
     }
 }
@@ -443,6 +442,22 @@ footer li {
 
     #wsop-video-container {
         margin-top: 35px;
+    }
+
+    /* Querie for how-to-play.hmtl */
+    /* Querie for how-play-poker section */
+    #how-play-container {
+        width: 400px;
+        font-size: 13px;
+    }
+
+    /* Querie for rules + hands-rankings + bets-positions sections */
+    #hand-rankings {
+        flex-direction: column;
+    }
+    
+    .position-model {
+        flex-direction: column-reverse;
     }
 }
 
@@ -584,6 +599,28 @@ footer li {
     #wsop-video-container iframe {
         width: 300px;
         height: auto;
+    }
+
+    /* Querie for how-to-play.hmtl */
+    /* Querie for how-play-poker section */
+    #how-play-container {
+        width: 300px;
+        font-size: 12px;
+    }
+    
+    /* Querie for rules + hands-rankings + bets-positions sections */
+    .image-model {
+        display: flex;
+        justify-content: center;
+    }
+ 
+    .image-model img {
+        width: 85%;
+    }
+  
+    .text-model {
+        width: 80%;
+        font-size: 11px;
     }
 }
 
