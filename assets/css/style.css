@@ -101,37 +101,33 @@ footer li {
 /* Style for Home page */
 /* About-poker-coder style */
 
-#about-poker-code {
-    position: relative;
+#about-poker-coder {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-bottom: -200px;
 }
 
 #home-image {
     height: 900px;
-    width: 100%;
+    width: 750px;
     background: url('../images/man-cards-about.jpg') no-repeat;
-    background-size: 40%;
-    background-position-x: center;
+    background-size: 100%;
 }
 
 #home-cover-text {
     text-align: center;
     background-color: rgba(97, 97, 97, 0.9);
-    color: #ffffff;
-    width: 35%;
+    width: 650px;
     padding: 10px;
-    display: flexbox;
-    margin-left: auto;
-    margin-right: auto;
-    position: absolute;
-    left: 615px;
-    top: 950px;
+    position: relative;
+    top: -300px;
 }
 
 /* Style for questions section */ 
 
 #questions {
     text-align: center;
-    margin-top: 25px;
 }
 
 .questions-box {
