@@ -93,13 +93,13 @@ footer li {
 
 .social-links i {
     font-size: 300%;
-    color: rgb(240, 224, 84);
+    color: rgb(255, 230, 0);
     padding: 0;
     margin: 15px;
 }
 
 .social-links i:hover {
-    color: rgba(129, 143, 0, 0.5)
+    color: rgb(127, 129, 0)
 }
 
 /* Style for Home page */
