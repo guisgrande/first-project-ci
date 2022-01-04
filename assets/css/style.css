@@ -48,20 +48,21 @@ body {
     text-align: center;
     font-size: 18px;
     background-color: rgb(240, 224, 84);
-    height: 40px;
+    height: 45px;
 }
 
 #menu ul {
     margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 #menu li {
     list-style: none;
-    display: inline-block;
     background-color: #ffffff;
-    margin: 15px;
-    position: relative;
-    bottom: 7px;
+    padding: 0;
+    margin: 10px;
 }
 
 #menu a {
@@ -397,6 +398,7 @@ footer li {
     /* Querie for banner - title */
     #menu {
         font-size: 12px;
+        height: 39px;
     }
 }
 
@@ -413,5 +415,6 @@ footer li {
     /* Querie for banner - title */
     #menu {
         font-size: 12px;
+        height: 39px;
     }
 }
