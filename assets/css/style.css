@@ -359,6 +359,15 @@ footer li {
 
 /* !!Media queries!! */
 
+@media screen and (max-width: 1300px) {
+
+    /* Querie for index.html */
+    /* Querie for questions section */
+    .questions-box {
+        font-size: 14px;
+    }
+}
+
 @media screen and (max-width: 1080px) {
     /* Querie for banner - title */
     #banner-text h1 {
@@ -367,6 +376,14 @@ footer li {
 
     #banner-image img {
         width: 700px;
+    }
+
+    /* Querie for index.html */
+    /* Querie for questions section */
+    .questions-box {
+        font-size: 14px;
+        height: 450px;
+        margin: 20px;
     }
 }
 
@@ -382,7 +399,6 @@ footer li {
 
     /* Querie for index.html */
     /* QUerie for about-poker-coder section */
-
     #home-image {
         height: 700px;
         width: 550px;
@@ -393,6 +409,16 @@ footer li {
         width: 450px;
         position: relative;
         top: -280px;
+    }
+
+     /* Querie for questions section */
+     #questions div {
+        margin-left: 40px;
+        margin-right: 40px;
+     }
+    .questions-box {
+        width: 330px;
+        display: inline-block;
     }
 }
 
@@ -414,7 +440,6 @@ footer li {
 
     /* Querie for index.html */
     /* QUerie for about-poker-coder section */
-    
     #home-image {
         height: 500px;
         width: 350px;
@@ -425,6 +450,12 @@ footer li {
         width: 250px;
         position: relative;
         top: -250px;
+    }
+
+    /* Querie for questions section */
+    #questions div {
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
 
@@ -446,7 +477,6 @@ footer li {
 
     /* Querie for index.html */
     /* QUerie for about-poker-coder section */
-   
     #home-image {
         height: 450px;
         width: 300px;
@@ -458,5 +488,16 @@ footer li {
         width: 230px;
         position: relative;
         top: -220px;
+    }
+
+    /* Querie for questions section */
+    #questions div {
+        margin-left: 0;
+        margin-right: 0;
+     }
+    .questions-box {
+        width: 280px;
+        height: 340px;
+        font-size: 11px;
     }
 }
