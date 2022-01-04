@@ -79,12 +79,17 @@ body {
 /* Footer */
 footer {
     text-align: center;
-    background-color: rgba(39, 39, 39);
+    background-color: rgba(221, 221, 221, 0.7);
 }
 
 footer li {
     list-style: none;
-    display: inline;
+}
+
+.social-links {
+    padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
 .social-links i {
@@ -467,6 +472,11 @@ footer li {
     #menu {
         font-size: 12px;
         height: 39px;
+    }
+
+    /* Querie for footer - icons */
+    .social-links i {
+        font-size: 200%;
     }
 
     /* Querie for index.html */
