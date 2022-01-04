@@ -357,7 +357,7 @@ footer li {
     height: auto;
 }
 
-/* Media queries */
+/* !!Media queries!! */
 
 @media screen and (max-width: 1080px) {
     /* Querie for banner - title */
@@ -379,6 +379,21 @@ footer li {
     #banner-image img {
         width: 500px;
     }
+
+    /* Querie for index.html */
+    /* QUerie for about-poker-coder section */
+
+    #home-image {
+        height: 700px;
+        width: 550px;
+    }
+    
+    #home-cover-text {
+        font-size: 15px;
+        width: 450px;
+        position: relative;
+        top: -280px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -396,6 +411,21 @@ footer li {
         font-size: 12px;
         height: 39px;
     }
+
+    /* Querie for index.html */
+    /* QUerie for about-poker-coder section */
+    
+    #home-image {
+        height: 500px;
+        width: 350px;
+    }
+    
+    #home-cover-text {
+        font-size: 10px;
+        width: 250px;
+        position: relative;
+        top: -250px;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -412,5 +442,21 @@ footer li {
     #menu {
         font-size: 12px;
         height: 39px;
+    }
+
+    /* Querie for index.html */
+    /* QUerie for about-poker-coder section */
+   
+    #home-image {
+        height: 450px;
+        width: 300px;
+    }
+    
+    #home-cover-text {
+        font-size: 9px;
+        padding: 3px;
+        width: 230px;
+        position: relative;
+        top: -220px;
     }
 }
