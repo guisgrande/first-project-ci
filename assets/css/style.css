@@ -398,6 +398,25 @@ footer li {
         width: 160px;
         left: 15px;
     }
+
+    /* Querie for wsop-last-champions section */
+     #wsop-text-container {
+        width: 250px;
+        font-size: 13px;
+    }
+    
+    #wsop-table-container {
+        font-size: 13px;
+    }
+    
+    #wsop-video-container iframe {
+        width: 426px;
+        height: 240px;
+    }
+
+    #wsop-video-container p {
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 1080px) {
@@ -443,6 +462,15 @@ footer li {
     #tournments-container {
         width: 300px;
         font-size: 13px;
+    }
+
+    /* Querie for wsop-last-champions section */
+    #wsop-last-champions {
+        flex-direction: column;
+    }
+
+    #wsop-video-container {
+        margin-top: 35px;
     }
 }
 
@@ -578,7 +606,13 @@ footer li {
     #tournments-container {
         width: 250px;
         font-size: 12px;
-    }   
+    }
+
+    /* Querie for wsop-last-champions section */
+    #wsop-video-container iframe {
+        width: 300px;
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 400px) {
