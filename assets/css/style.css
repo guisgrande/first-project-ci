@@ -288,15 +288,6 @@ footer li {
 }
 
 /* Style for how-to-play.html page */
-
-/* Style rule for divs elements */
-
-.forty-auto-size {
-    width: 40%;
-    height: auto;
-    margin-top: 25px;
-}
-
 /* Style for how-play-poker section */
 
 #how-play-poker {
@@ -307,7 +298,7 @@ footer li {
 }
 
 #how-play-container {
-    width: 40%;
+    width: 600px;
 }
 
 #how-play-container p {
@@ -317,51 +308,32 @@ footer li {
     border: white 2px outset;
 }
 
-/* Style for rules section */
+/* Style for rules + hands-rankings + bets-positions sectiond */
 
-#rules-texas-holdem {
-    text-align: justify;
-    padding: 10px;
-    margin: 35px 0 35px 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-#rules-image-container img {
-    width: 800px;
-    height: auto;
-}
-
-/* Style for hands ranking section */
-
-#hand-rankings {
-    text-align: justify;
-    padding: 10px;
-    margin: 35px 0 35px 0;
+.position-model {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(39, 39, 39);
 }
 
-#hand-image-container img {
-    width: 800px;
+.image-model img {
+    width: 600px;
     height: auto;
+    padding: 15px;
 }
 
-/* Style for best-positions ranking section */
-
-#bets-positions {
+.text-model {
+    width: 600px;
+    height: auto;
+    font-size: 13px;
     text-align: justify;
     padding: 10px;
-    margin: 35px 0 40px 0;
-    display: flex;
-    justify-content: space-around;
+    margin: 10px 0 10px 0;
 }
 
-#bets-image-container img{
-    width: 800px;
-    height: auto;
+/* Style for hands-rankings only*/
+#hand-rankings {
+    background-color: rgb(39, 39, 39);
 }
 
 /* !!Media queries!! */
