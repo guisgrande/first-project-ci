@@ -2,11 +2,11 @@
 
 /* Font Style */
 h1, h2, h3, h4 {
-    font-family: Roboto Slab, sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
 }
 
 body {
-    font-family: Roboto Mono, sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
     background-color: black;
     color: white;
 }
@@ -216,7 +216,7 @@ footer li {
     border-radius: 2%;
     border: black 1px solid;
     position: relative;
-    display: flexbox;
+    display: flex;
     justify-content: right;
 }
 
