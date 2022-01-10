@@ -177,6 +177,7 @@ footer li {
     height: 300px;
     border-radius: 50%;
     border: white 2px double;
+    object-fit: cover;
 }
 
 /* Style for history.html page */
