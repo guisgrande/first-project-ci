@@ -30,13 +30,14 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Content
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+- The favicon used at the three pages was generated from [Favicon.io](https://favicon.io/).
 - The text for the History page was taken from Wikipedia. [Texas Hold'em Article](https://en.wikipedia.org/wiki/Texas_hold_%27em_).
 - The video used for History page was taken from Youtube. [WSOP 2021 Main Event Final](https://www.youtube.com/watch?v=ovKBlXdQji4).
 - The informations used in WSOP Last Champions table for History page was taken from [WSOP Website](https://www.wsop.com/).
 
 ### Media
 
-- The images used for Banner, Hands Rankings and Bets and Positions (last two form How to Play page) was were made by me using the website [Canvas](https://www.canva.com/).
+- The images used for Favicon, Banner, Hands Rankings and Bets and Positions (last two form How to Play page) was were made by me using the website [Canva](https://www.canva.com/).
 - The photos used for Home page and the another one used at How to Play page was taken from [Pexels](https://www.pexels.com/).
 - The photos used for History page was taken from [Unsplash](https://unsplash.com/).
 
