@@ -380,11 +380,6 @@ footer li {
     #wsop-table-container {
         font-size: 13px;
     }
-    
-    #wsop-video-container iframe {
-        width: 426px;
-        height: 240px;
-    }
 
     #wsop-video-container p {
         font-size: 12px;
