@@ -560,19 +560,19 @@ footer li {
     }
     
     #history-image-1 img {
-        width: 150px;
-        height: 100px;
+        width: 140px;
+        height: 94px;
     }
     
     #history-image-2 img {
-        width: 250px;
-        height: 167px;
-        left: 50px;
+        width: 220px;
+        height: 147px;
+        left: 70px;
     }
     
     #history-image-3 img {
-        width: 110px;
-        height: 74px;
+        width: 130px;
+        height: 89px;
         bottom: 100px;
     }
 }
@@ -626,7 +626,7 @@ footer li {
     #history-of-poker {
         margin-top: 35px;
     }
-    
+
     #history-text-container {
         width: 300px;
         height: auto;
