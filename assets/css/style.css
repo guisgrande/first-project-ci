@@ -683,6 +683,11 @@ footer li {
         width: 250px;
     }
 
+    /* Querie for menu - nav */
+    #menu {
+        font-size: 13px;
+    }
+
     /* Querie for index.html */
     /* QUerie for about-poker-coder section */
     #home-image {
