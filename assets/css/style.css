@@ -20,6 +20,8 @@ body {
     align-items: center;
     margin: 0;
     padding: 0;
+    width: 100%;
+    height: 222px;
 }
 
 /* Style for title */
@@ -402,6 +404,10 @@ footer li {
 
 @media screen and (max-width: 1080px) {
     /* Querie for banner - title */
+    #container-banner {
+        height: 172px;
+    }
+
     #banner-text h1 {
         font-size: 40px;
     }
@@ -476,6 +482,9 @@ footer li {
 
 @media screen and (max-width: 880px) {
     /* Querie for banner - title */
+    #container-banner {
+        height: 122px;
+    }
     #banner-text h1 {
         font-size: 30px;
     }
@@ -563,6 +572,9 @@ footer li {
 
 @media screen and (max-width: 600px) {
     /* Querie for banner - title */
+    #container-banner {
+        height: 72px;
+    }
     #banner-text h1 {
         font-size: 25px;
     }
