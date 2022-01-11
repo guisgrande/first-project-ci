@@ -13,13 +13,19 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - __Navigation Bar__
 
 - Present on all pages (Home/History/How to play) to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the banner. 
-- Shadow effect had as a query the following page for its implementation on the website. [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp).
+
 
 ### Features Left to Implement
 
 ## Testing 
 
 ### Validator Testing 
+
+- __HTML__
+    - No errors were returned when passing through the official W3C Validator.
+
+- __CSS__
+    - No errors were found when passing through the official W3C Jigsaw Validator.
 
 ### Unfixed Bugs
 
@@ -32,7 +38,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 - The favicon used at the three pages was generated from [Favicon.io](https://favicon.io/).
 - The text for the History page was taken from Wikipedia. [Texas Hold'em Article](https://en.wikipedia.org/wiki/Texas_hold_%27em_).
-- The video used for History page was taken from Youtube. [WSOP 2021 Main Event Final](https://www.youtube.com/watch?v=ovKBlXdQji4).
+- The video used for History page was taken from Youtube. [Youtube - official link](https://www.youtube.com/watch?v=ovKBlXdQji4).
 - The informations used in WSOP Last Champions table for History page was taken from [WSOP Website](https://www.wsop.com/).
 
 ### Media
@@ -41,4 +47,6 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - The photos used for Home page and the another one used at How to Play page was taken from [Pexels](https://www.pexels.com/).
 - The photos used for History page was taken from [Unsplash](https://unsplash.com/).
 
-## Other General Project Advice
+### Inspiration
+
+- Shadow and Gradients effects had as a query the following page for its implementation on the website. [W3Schools](https://www.w3schools.com).
