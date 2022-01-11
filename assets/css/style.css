@@ -512,8 +512,7 @@ footer li {
     #home-cover-text {
         font-size: 15px;
         width: 450px;
-        position: relative;
-        top: -280px;
+        top: -295px;
     }
 
      /* Querie for questions section */
@@ -612,8 +611,8 @@ footer li {
     #home-cover-text {
         font-size: 10px;
         width: 250px;
-        position: relative;
-        top: -250px;
+        top: -275px;
+        padding: 8px;
     }
 
     /* Querie for questions section */
@@ -685,10 +684,9 @@ footer li {
     
     #home-cover-text {
         font-size: 9px;
-        padding: 3px;
+        padding: 4px;
         width: 230px;
-        position: relative;
-        top: -220px;
+        top: -245px;
     }
 
     /* Querie for questions section */
