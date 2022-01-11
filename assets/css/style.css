@@ -265,6 +265,10 @@ footer li {
     text-align: justify;
 }
 
+#wsop-text-container h3 {
+    text-align: center;
+}
+
 #wsop-table-container {
     width: auto;
     height: auto;
