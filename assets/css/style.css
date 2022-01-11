@@ -623,6 +623,10 @@ footer li {
 
     /* Querie for history.html */
     /* Querie for history-of-poker section */
+    #history-of-poker {
+        margin-top: 35px;
+    }
+    
     #history-text-container {
         width: 300px;
         height: auto;
@@ -643,6 +647,10 @@ footer li {
 
     /* Querie for how-to-play.hmtl */
     /* Querie for how-play-poker section */
+    #how-play-poker {
+        margin-top: 35px;
+    }
+
     #how-play-container {
         width: 300px;
         font-size: 12px;
