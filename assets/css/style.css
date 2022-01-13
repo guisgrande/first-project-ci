@@ -606,15 +606,15 @@ footer li {
     /* Querie for index.html */
     /* Querie for about-poker-coder section */
     #home-image {
-        height: 500px;
-        width: 350px;
+        height: 550px;
+        width: 400px;
     }
     
     #home-cover-text {
-        font-size: 10px;
-        width: 250px;
+        font-size: 12px;
+        width: 380px;
         top: -275px;
-        padding: 8px;
+        padding: 6px;
     }
 
     /* Querie for questions section */
@@ -671,7 +671,7 @@ footer li {
   
     .text-model {
         width: 80%;
-        font-size: 11px;
+        font-size: 12px;
     }
 }
 
@@ -693,15 +693,19 @@ footer li {
     /* Querie for index.html */
     /* QUerie for about-poker-coder section */
     #home-image {
-        height: 450px;
-        width: 300px;
+        height: 470px;
+        width: 320px;
     }
     
     #home-cover-text {
-        font-size: 9px;
-        padding: 4px;
-        width: 270px;
+        font-size: 11px;
+        padding: 1px;
+        width: 300px;
         top: -245px;
+    }
+
+    #home-cover-text h2 {
+        margin: 1px;
     }
 
     /* Querie for questions section */
@@ -710,9 +714,9 @@ footer li {
         margin-right: 0;
      }
     .questions-box {
-        width: 280px;
-        height: 340px;
-        font-size: 11px;
+        width: 300px;
+        height: 370px;
+        font-size: 12px;
     }
 
     /* Querie for players section */
