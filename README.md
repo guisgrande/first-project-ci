@@ -6,27 +6,49 @@
 Poker Coder is a website designed with the purpose of teaching the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes the readers can understand what is necessary to start playing and having fun.
 The Poker Coder will be searched by those who don't know how to play poker and would like to get started, it will be very useful for people who have no knowledge of the game because it deals in a direct way with what needs to be learned.
 
-![Responsive Mockup](https://github.com/guisgrande/first-project-ci/issues/17#issue-1100180380)
+![Responsive sreens](https://user-images.githubusercontent.com/95390307/149125840-8adbf428-d5f6-4b13-a870-c3e6f9183a94.PNG)
 
 ## Features
 
 ### Existing Features
 
 - __Banner__
+  - Present on all pages (Home/History/How to play) is intended to create a style and identity for the page. The elements in the image refer to the title and theme of the site.
 
+![Banner](https://user-images.githubusercontent.com/95390307/149121163-9ccc179a-290a-4340-84bc-8a6b363983d7.PNG)
 
 - __Navigation Bar__
+  - Present on all pages to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the banner. 
+  - I added a hover effect on the navigation options to make them stand out more when selecting them.
 
-- Present on all pages (Home/History/How to play) to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the banner. 
+![Navbar - Normal](https://user-images.githubusercontent.com/95390307/149121550-09c1dc2b-64be-479b-9169-d8bf45dc22e8.PNG)
 
-![Nav bar](https://github.com/guisgrande/first-project-ci/issues/2#issue-1100151657)
-![Nav bar - hover](https://github.com/guisgrande/first-project-ci/issues/3#issue-1100152337)
+![Navbar - Hover](https://user-images.githubusercontent.com/95390307/149121656-d5cacea3-4348-4a1f-92cd-66909196999e.png)
 
 - __Footer__
+  - Present on all pages as well, has icons to direct users to social network pages. The links open in a new page. It is intended to create a connection with the users.
+  - I added a hover effect on the social media icons to make them stand out more when selecting them.
+
+![Footer - Normal](https://user-images.githubusercontent.com/95390307/149124992-51e475e7-e051-411d-9267-a5eb776ff10c.PNG)
+
+![Footer - Hover](https://user-images.githubusercontent.com/95390307/149125063-27e1ed0e-1be5-4b80-904d-f82779036984.png)
 
 - __Home page - About Section__
+  - This section was created with the intention of introducing the user to the website and explaining what information he/she will have access to. 
+
+![Home - about](https://user-images.githubusercontent.com/95390307/149320930-13c760e2-2f0f-42e4-b7d2-35eba1d6a7e7.PNG)
+
 - __Home page - Questions Section__
+  - This section has two important questions that can draw the user's attention. What is poker explains the game in a short way and why shows some advantages and benefits that can be gained by playing.
+
+![Home - questions](https://user-images.githubusercontent.com/95390307/149121864-7a422629-0f1e-4d25-85d5-f86878a1687e.PNG)
+
 - __Home page - Players Section__
+  - The last section of the home page is intended to show users that there are no barriers to start playing. And that you can include anyone in the game.
+  - The images try to portray the situations mentioned.
+
+![home - players](https://user-images.githubusercontent.com/95390307/149121975-71552a84-c3d5-423a-8cfa-ea3a618536ce.PNG)
+
 - __History page - History Section__
 - __History page - Tournment Section__
 - __History page - WSOP Last Champions Section__
@@ -66,7 +88,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - The images used for Favicon, Banner, Hands Rankings and Bets and Positions (last two form How to Play page) was were made by me using the website [Canva](https://www.canva.com/).
 - The photos used for Home page and the another one used at How to Play page was taken from [Pexels](https://www.pexels.com/).
 - The photos used for History page was taken from [Unsplash](https://unsplash.com/).
-- The image used for README.md responsive mockup was taken form [Am I Responsive](http://ami.responsivedesign.is/).
+- The image used for README.md responsive mockup was taken from [Am I Responsive](http://ami.responsivedesign.is/).
 
 ### Inspiration
 
