@@ -4,7 +4,10 @@
  # Poker Coder
 
 Poker Coder is a website designed with the purpose of teaching the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes the readers can understand what is necessary to start playing and having fun.
+
 The Poker Coder will be searched by those who don't know how to play poker and would like to get started, it will be very useful for people who have no knowledge of the game because it deals in a direct way with what needs to be learned.
+
+  - Here a link to the final project. [Poker Coder](https://guisgrande.github.io/first-project-ci/)
 
 ![Responsive sreens](https://user-images.githubusercontent.com/95390307/149125840-8adbf428-d5f6-4b13-a870-c3e6f9183a94.PNG)
 
@@ -45,7 +48,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 - __Home page - Players Section__
   - The last section of the home page is intended to show users that there are no barriers to start playing. And that you can include anyone in the game.
-  - The images try to portray the situations mentioned.
+  - The images try to portray the situations mentioned. I added a shadow effect to make the photos stand out.
 
 ![home - players](https://user-images.githubusercontent.com/95390307/149121975-71552a84-c3d5-423a-8cfa-ea3a618536ce.PNG)
 
@@ -92,7 +95,25 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Features Left to Implement
 
-## Testing 
+  - For the future, leave open the possibility of adding a page to simulate the game, giving the user a way to test the acquired knowledge and see how the game is played in practice.
+
+## Testing
+
+- I ran the tests on multiple devices and different browsers, in order to cover the widest possible range of screen sizes and models. 
+
+### Navegation and Devices
+
+- __Browsers__
+  - Chrome
+  - Firefox
+  - Safari
+  - Edge
+
+- __Devices__
+  - Apple:
+  - Samsung:
+  - Motorola: 
+  - LG:
 
 ### Validator Testing 
 
