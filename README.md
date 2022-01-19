@@ -50,12 +50,45 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ![home - players](https://user-images.githubusercontent.com/95390307/149121975-71552a84-c3d5-423a-8cfa-ea3a618536ce.PNG)
 
 - __History page - History Section__
+  - The history section is intended to give you some facts and a brief idea of how poker started.
+  - It displays some overlapping photos to add a visual element. For copyright reasons, I preferred to use free photos instead of historical ones.
+
+![history - intro](https://user-images.githubusercontent.com/95390307/149123901-481b7a24-4962-4c7c-b42a-79872d9ea7ab.PNG)
+
 - __History page - Tournment Section__
+  - The tournament section is intended to show the user some of the biggest poker leagues in the world. To get a sense of the size and organization of the card game. 
+ 
+![history - tournments](https://user-images.githubusercontent.com/95390307/149124097-b5823d89-66a1-4aaa-8d7a-1b975daf1b23.PNG)
+
 - __History page - WSOP Last Champions Section__
+  - The last section of this page presents information about the latest winners of poker's biggest event. To gauge how crowded these tournaments are.
+  - The video is intended to show how a tournament is, the structure and also the dynamics of the game.
+
+![history - wsop](https://user-images.githubusercontent.com/95390307/149124195-19acd28c-84b6-451e-831c-918e0f9aa22f.PNG)
+
 - __How to Play page - How to play Section__
+  - The first section is a brief introduction to the basics of how to play. It shows the user what he needs to learn the game.
+
+![how - intro](https://user-images.githubusercontent.com/95390307/149124458-e873bde1-05f7-4826-8331-9012ca691029.PNG)
+
 - __How to Play page - Rules Section__
+  - The rules section informs the user of the main rules necessary to understand the game. With this information he/she will already understand poker.
+
+![how - rules](https://user-images.githubusercontent.com/95390307/149124586-a4ebc677-a8f6-4dd3-a5eb-e205d6e65fc5.PNG)
+
 - __How to Play page - Ranking Hands Section__
+  - In this section as a continuation of the essentials for playing, it shows the card combinations and what their value is within the game. It shows the user the possibilities in an orderly manner to facilitate understanding.
+  - The image used in this section is intended to represent the information in a visual way. 
+
+![how - hands](https://user-images.githubusercontent.com/95390307/149124741-c637fae4-b12c-4800-b5b5-b775027fb4c9.PNG)
+
 - __How to Play page - Bets and Positions Section__
+  - The last section of the page, aims to show the user how the moves and bets behave and what the game sequence is. This increases the user's understanding of the dynamics.
+  - The image used also has the intention of visually instructing the progress of the bets and moves on a poker table.
+ 
+![how - bets](https://user-images.githubusercontent.com/95390307/149124877-42c204a3-6d13-4d3a-8dbd-9b933fc46c6a.PNG)
+
+  - By the end of reading all this information the user will be ready to start playing Texas Holdem Poker.
 
 ### Features Left to Implement
 
