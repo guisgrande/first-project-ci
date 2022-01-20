@@ -27,6 +27,8 @@ The Poker Coder will be searched by those who don't know how to play poker and w
  - [Testing](#testing).
    * [Navegation and Devices](#navegation-and-devices).
    * [Validator Testing](#validator-testing).
+   * [Performance Testing](#performance-testing).
+   * [Other Tests](#other-tests).
    * [Fixed Bugs](#fixed-bugs).
    * [Unfixed Bugs](#unfixed-bugs).
  
@@ -144,10 +146,11 @@ The Poker Coder will be searched by those who don't know how to play poker and w
   - Edge
 
 - __Devices__
-  - Apple:
-  - Samsung:
-  - Motorola: 
-  - LG:
+  - Apple: Iphone SE, Iphone 13 Pro Max, Iphone 8, Iphone XR, Iphone 12 Pro, Ipad Air, Ipad Mini.
+  - Samsung: Galaxy S8+, Galaxy S20 Ultra, Galaxy A51/71, Galaxy Tab S4, Galaxy Note II.
+  - Motorola: MOto G4.
+  - LG: Optimus L70, Nexus 4, Nexus 10.
+  - Google: Pixel 5, Pixel 3 XL.
 
 ### Validator Testing 
 
@@ -164,6 +167,20 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 - __CSS__
     - No errors were found when passing through the official W3C Jigsaw Validator. [Validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Performance Testing
+
+- __Lighthouse DevTools__
+   - I used a Lighthouse tool to check a performance, accessibility, best practices and SEO on each of the pages.
+
+1. Home Page
+
+2. History Page
+
+3. How to play Page
+
+
+### Other Tests
 
 ### Fixed Bugs
 
