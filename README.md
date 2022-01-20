@@ -121,7 +121,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
     - No errors were returned when passing through the official W3C Validator.
 
 - __CSS__
-    - No errors were found when passing through the official W3C Jigsaw Validator.
+    - No errors were found when passing through the official W3C Jigsaw Validator. [Validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
