@@ -11,6 +11,40 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ![Responsive sreens](https://user-images.githubusercontent.com/95390307/149125840-8adbf428-d5f6-4b13-a870-c3e6f9183a94.PNG)
 
+## Content Navegation
+
+<details>
+    <summary>Summary</summary>
+
+ - [Wireframes and UX Design](#wireframes-and-ux-design).
+   * [Wireframes](#wireframes).
+   * [UX Design](#ux-design).
+ 
+ - [Features](#features).
+   * [Existing Features](#existing-features).
+   * [Features Left to Implement](#features-left-to-implement).
+ 
+ - [Testing](#testing).
+   * [Navegation and Devices](#navegation-and-devices).
+   * [Validator Testing](#validator-testing).
+   * [Fixed Bugs](#fixed-bugs).
+   * [Unfixed Bugs](#unfixed-bugs).
+ 
+ - [Deployment](#deployment).
+
+ - [Credits](#credits). 
+   * [Content](#content).
+   * [Media](#media)
+   * [Inspiration](#inspiration).
+ 
+</details> 
+
+## Wireframes and UX Design
+
+### Wireframes
+
+### UX Design
+
 ## Features
 
 ### Existing Features
@@ -118,10 +152,20 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Validator Testing 
 
 - __HTML__
-    - No errors were returned when passing through the official W3C Validator.
+    - No errors were returned when passing through the official W3C Validator. [Validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2F)
+<details>
+    <summary>All html pages validated</summary>
+ 
+1. Home page - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2Findex.html).
+2. History page - [history.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2Fhistory.html).
+3. How to play page - [how-to-play.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2Fhow-to-play.html).
+ 
+</details> 
 
 - __CSS__
-    - No errors were found when passing through the official W3C Jigsaw Validator. [Validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    - No errors were found when passing through the official W3C Jigsaw Validator. [Validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fguisgrande.github.io%2Ffirst-project-ci&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Fixed Bugs
 
 ### Unfixed Bugs
 
