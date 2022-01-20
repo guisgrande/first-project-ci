@@ -244,6 +244,7 @@ footer li {
     background-color: rgba(44, 44, 44, 0.7);
     border: white 2px outset;
     padding: 10px;
+    margin-top: -30px;
 }
 
 #tournments-container > h3 {
