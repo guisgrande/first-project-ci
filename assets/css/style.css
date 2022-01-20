@@ -290,6 +290,10 @@ footer li {
     color: black;
 }
 
+#wsop-video-container iframe {
+    border: 0;
+}
+
 #wsop-video-container p {
     text-align: center;
 }
