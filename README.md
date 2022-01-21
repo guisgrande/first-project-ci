@@ -7,9 +7,9 @@ Poker Coder is a website designed with the purpose of teaching the basics of the
 
 The Poker Coder will be searched by those who don't know how to play poker and would like to get started, it will be very useful for people who have no knowledge of the game because it deals in a direct way with what needs to be learned.
 
-  - Here a link to the final project. [Poker Coder](https://guisgrande.github.io/first-project-ci/)
+  - Here is the link to the final project > [Poker Coder](https://guisgrande.github.io/first-project-ci/)
 
-![Responsive sreens](https://user-images.githubusercontent.com/95390307/149125840-8adbf428-d5f6-4b13-a870-c3e6f9183a94.PNG)
+<img src="assets/readme-images/responsive-screens.png">
 
 ## Content Navegation
 
@@ -45,7 +45,29 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Wireframes
 
+<details><summary>Page 01</summary>
+<div align="center">
+<img src="assets/readme-images/wireframe-home.png">
+</div>
+</details>
+
+<details><summary>Page 02</summary>
+<div align="center">
+<img src="assets/readme-images/wirefram-history.png">
+</div>
+</details>
+
+<details><summary>Page 03</summary>
+<div align="center">
+<img src="assets/readme-images/wireframe-how.png">
+</div>
+</details>
+
 ### UX Design
+
+<div align="center">
+<img src="assets/readme-images/colors-template.png" width="650">
+</div>
 
 ## Features
 
@@ -54,78 +76,102 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - __Banner__
   - Present on all pages (Home/History/How to play) is intended to create a style and identity for the page. The elements in the image refer to the title and theme of the site.
 
-![Banner](https://user-images.githubusercontent.com/95390307/149121163-9ccc179a-290a-4340-84bc-8a6b363983d7.PNG)
+<img src="assets/readme-images/banner.png">
 
 - __Navigation Bar__
   - Present on all pages to facilitate navigation between them. The font is the same used throughout the website, I tried to keep the style and colors the same as the banner. 
   - I added a hover effect on the navigation options to make them stand out more when selecting them.
 
-![Navbar - Normal](https://user-images.githubusercontent.com/95390307/149121550-09c1dc2b-64be-479b-9169-d8bf45dc22e8.PNG)
+<div align="center">
+<img src="assets/readme-images/navbar.png">
 
-![Navbar - Hover](https://user-images.githubusercontent.com/95390307/149121656-d5cacea3-4348-4a1f-92cd-66909196999e.png)
+<img src="assets/readme-images/navbar-hover.png">
+</div>
 
 - __Footer__
   - Present on all pages as well, has icons to direct users to social network pages. The links open in a new page. It is intended to create a connection with the users.
   - I added a hover effect on the social media icons to make them stand out more when selecting them.
 
-![Footer - Normal](https://user-images.githubusercontent.com/95390307/149124992-51e475e7-e051-411d-9267-a5eb776ff10c.PNG)
+<div align="center">
+<img src="assets/readme-images/footer.png">
 
-![Footer - Hover](https://user-images.githubusercontent.com/95390307/149125063-27e1ed0e-1be5-4b80-904d-f82779036984.png)
+<img src="assets/readme-images/footer-hover.png">
+</div>
 
 - __Home page - About Section__
   - This section was created with the intention of introducing the user to the website and explaining what information he/she will have access to. 
 
-![Home - about](https://user-images.githubusercontent.com/95390307/149320930-13c760e2-2f0f-42e4-b7d2-35eba1d6a7e7.PNG)
+<div align="center">
+<img src="assets/readme-images/Home-about.png">
+</div>
 
 - __Home page - Questions Section__
   - This section has two important questions that can draw the user's attention. What is poker explains the game in a short way and why shows some advantages and benefits that can be gained by playing.
 
-![Home - questions](https://user-images.githubusercontent.com/95390307/149121864-7a422629-0f1e-4d25-85d5-f86878a1687e.PNG)
+<div align="center">
+<img src="assets/readme-images/home-questions.png">
+</div>
 
 - __Home page - Players Section__
   - The last section of the home page is intended to show users that there are no barriers to start playing. And that you can include anyone in the game.
   - The images try to portray the situations mentioned. I added a shadow effect to make the photos stand out.
 
-![home - players](https://user-images.githubusercontent.com/95390307/149121975-71552a84-c3d5-423a-8cfa-ea3a618536ce.PNG)
+<div align="center">
+<img src="assets/readme-images/home-players.png">
+</div>
 
 - __History page - History Section__
   - The history section is intended to give you some facts and a brief idea of how poker started.
   - It displays some overlapping photos to add a visual element. For copyright reasons, I preferred to use free photos instead of historical ones.
 
-![history - intro](https://user-images.githubusercontent.com/95390307/149123901-481b7a24-4962-4c7c-b42a-79872d9ea7ab.PNG)
+<div align="center">
+<img src="assets/readme-images/history-intro.png">
+</div>
 
 - __History page - Tournment Section__
   - The tournament section is intended to show the user some of the biggest poker leagues in the world. To get a sense of the size and organization of the card game. 
  
-![history - tournments](https://user-images.githubusercontent.com/95390307/149124097-b5823d89-66a1-4aaa-8d7a-1b975daf1b23.PNG)
+<div align="center">
+<img src="assets/readme-images/history-tournments.png">
+</div>
 
 - __History page - WSOP Last Champions Section__
   - The last section of this page presents information about the latest winners of poker's biggest event. To gauge how crowded these tournaments are.
   - The video is intended to show how a tournament is, the structure and also the dynamics of the game.
 
-![history - wsop](https://user-images.githubusercontent.com/95390307/149124195-19acd28c-84b6-451e-831c-918e0f9aa22f.PNG)
+<div align="center">
+<img src="assets/readme-images/history-wsop.png">
+</div>
 
 - __How to Play page - How to play Section__
   - The first section is a brief introduction to the basics of how to play. It shows the user what he needs to learn the game.
 
-![how - intro](https://user-images.githubusercontent.com/95390307/149124458-e873bde1-05f7-4826-8331-9012ca691029.PNG)
+<div align="center">
+<img src="assets/readme-images/how-intro.png">
+</div>
 
 - __How to Play page - Rules Section__
   - The rules section informs the user of the main rules necessary to understand the game. With this information he/she will already understand poker.
 
-![how - rules](https://user-images.githubusercontent.com/95390307/149124586-a4ebc677-a8f6-4dd3-a5eb-e205d6e65fc5.PNG)
+<div align="center">
+<img src="assets/readme-images/how-rules.png">
+</div>
 
 - __How to Play page - Ranking Hands Section__
   - In this section as a continuation of the essentials for playing, it shows the card combinations and what their value is within the game. It shows the user the possibilities in an orderly manner to facilitate understanding.
   - The image used in this section is intended to represent the information in a visual way. 
 
-![how - hands](https://user-images.githubusercontent.com/95390307/149124741-c637fae4-b12c-4800-b5b5-b775027fb4c9.PNG)
+<div align="center">
+<img src="assets/readme-images/how-hands.png">
+</div>
 
 - __How to Play page - Bets and Positions Section__
   - The last section of the page, aims to show the user how the moves and bets behave and what the game sequence is. This increases the user's understanding of the dynamics.
   - The image used also has the intention of visually instructing the progress of the bets and moves on a poker table.
  
-![how - bets](https://user-images.githubusercontent.com/95390307/149124877-42c204a3-6d13-4d3a-8dbd-9b933fc46c6a.PNG)
+<div align="center">
+<img src="assets/readme-images/how-bets.png">
+</div>
 
   - By the end of reading all this information the user will be ready to start playing Texas Holdem Poker.
 
@@ -175,10 +221,21 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 1. Home Page
 
+<div align="center">
+<img src="assets/readme-images/lighthouse-home.png">
+</div>
+
 2. History Page
+
+<div align="center">
+<img src="assets/readme-images/lighthouse-history.png">
+</div>
 
 3. How to play Page
 
+<div align="center">
+<img src="assets/readme-images/lighthouse-how.png">
+</div>
 
 ### Other Tests
 
