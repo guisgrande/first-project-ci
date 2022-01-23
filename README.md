@@ -292,6 +292,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Fixed Bugs
 
 - The first bug I fixed was on the home page, where the text was not aligned with the image when doing responsive testing. I was able to fix the problem by changing the positioning code of the image and the text.
+   - Changes to fix bug can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/66a5a0938ac8da5e3d7abd27b09444c6b02eab0a).
 
 ### Unfixed Bugs
 
@@ -302,18 +303,35 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 - To create this project I used GitHub and GitPod.
 - I used the [Code Institute Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template), clicking on the "Use this template" button. From there I created the repository on Github with my username.
+- These commands were used for version control during project:
+    * git status - to check the status of the files to be commited.
+    * git add filename - to add files before committing
+    * git commit -m "message" - to commit changes to the local repository
+    * git push - to push all committed changes to the GitHub repository
 
 ### Deployment
 - To deploy the site to Github pages follow this steps:
 1. In the GitHub repository, select the Settings options.
 2. Scroll down until you find "GitHub Pages" section.
-3. 
+3. Select the option "Check it out here", will gona send you to the next page.
+4. Choose "Main" for the branch in the drop down box.
+5. Choose "Root" for the directory in the next drop down box.
+6. Then click "Save".
 
 ### Fork
--
+- Forks let you make changes to a project without affecting the original repository. Follow this steps:
+1. Go to the repository page, can be accessed [here](https://github.com/guisgrande/first-project-ci).
+2. On top right, you select the Fork option and proceed.
+3. A duplicate will be created inside your repository.
 
 ### Clone
--
+- Clone let you create an identical repository to the original. Follow this steps:
+1. Go to the repository page, can be accessed [here](https://github.com/guisgrande/first-project-ci).
+2. Click on code drop down menu.
+3. Choose if you want to clone using HTTPS, SSH or GitHub CLI. Then select de copy button.
+4. Open your Git Bash in your IDE.
+5. Type git clone and then paste the URL you copied before.
+6. Press Enter to create your clone.
 
 ## Credits
 
