@@ -77,17 +77,6 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - Talk about the origins and major current events.
 - Attracting people's interest to learn poker.
 
-#### User stories
-
-- __First time user__
-  - 
-
-- __Returning user__
-  - 
-  
-- __Frequent user__
-  - 
-
 #### Colour scheme
 
 - The colors chosen for the composition of the site were a combination of 5 colors (white, black and 3 shades of gray), white used for all text and details, black for the background, and shades of gray for text boxes and section breaks. 
@@ -100,7 +89,19 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 #### Typography
 
+- The fonts were selected from Google Fonts. 
+  - For the titles the font chosen was Robot Slab (Regular 400).
+  - For the body of the website the font chosen was Roboto Mono (Light 300).
+  - The font selected as the second option in case of any loading problems was san-serif.
+
 #### Imagery
+
+- The images selected for the website are intended to complement and assist the content. Each image selected was designed to match the section it was added to.
+  - About section image: to create an initial visual impact.
+  - Players section images: to portray the mentioned themes.
+  - History section images: three different photos to create an overlapping effect. Due to copyrights on old tournament photos and the difficulty in finding good ones, I opted to use photos available on free photo sites.
+  - WSOP Last Champions section: video selected to show what a poker tournament looks like.
+  - How to play page: the first image shows someone about to make a move and the next two images visually portray what was explained in the texts.
 
 ## Features
 
@@ -272,9 +273,16 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Other Tests
 
+- To check accessibility, I did the test using WAVE from WebAIM. The site did not present any errors or alerts.
+
 ### Fixed Bugs
 
+- The first bug I fixed was on the home page, where the text was not aligned with the image when doing responsive testing. I was able to fix the problem by changing the positioning code of the image and the text.
+
 ### Unfixed Bugs
+
+- I have not identified any bugs to be fixed when finalizing the project. 
+  - The only observation is to try to improve the quality of the photos used in the players section of the home page
 
 ## Deployment
 
@@ -282,17 +290,27 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Technologies and tools
 
+- DevTools - to assist in the development of the project.
+- Gitpod - to create/edit the code of the project.
+- Github - to create repository, hosting files and deployment of the website.
+- Lighthouse (Chrome Devtools) - Used to performance test.
+- [WAVE](https://wave.webaim.org/) - Used to acecessibility test.
+- [Font Awesome](https://fontawesome.com/) - Used for the icons used in the footer.
+- [Favicon.io](https://favicon.io/) - Used to implement the favicon on the website.
+- [Canva](https://www.canva.com/) - Used to create the Favicon, Banner, Hands Rankings and Bets and Positions images. 
+- [Coolors](https://coolors.co/) - Used to choice of colors and for the palette used in the README.
+- [Google Fonts](https://fonts.google.com/) - Used for font selection.
+- [Balsamiq](https://balsamiq.com/) - Used to creat the wireframes.
+- [TinyPNG](https://tinypng.com/) - Used to reduce the size of images and photos.
+
 ### Content
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
-- The favicon used at the three pages was generated from [Favicon.io](https://favicon.io/).
 - The text for the History page was taken from Wikipedia. [Texas Hold'em Article](https://en.wikipedia.org/wiki/Texas_hold_%27em_).
 - The video used for History page was taken from Youtube. [Youtube - official link](https://www.youtube.com/watch?v=ovKBlXdQji4).
 - The informations used in WSOP Last Champions table for History page was taken from [WSOP Website](https://www.wsop.com/).
 
 ### Media
 
-- The images used for Favicon, Banner, Hands Rankings and Bets and Positions (last two form How to Play page) was were made by me using the website [Canva](https://www.canva.com/).
 - The photos used for Home page and the another one used at How to Play page was taken from [Pexels](https://www.pexels.com/).
 - The photos used for History page was taken from [Unsplash](https://unsplash.com/).
 - The image used for README.md responsive mockup was taken from [Am I Responsive](http://ami.responsivedesign.is/).
