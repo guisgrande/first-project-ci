@@ -291,7 +291,10 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Fixed Bugs
 
-- The first bug I fixed was on the home page, where the text was not aligned with the image when doing responsive testing. I was able to fix the problem by changing the positioning code of the image and the text.
+- The first bug fixed was in the header, where it was not fixing 100% of the width of the page on certain screen sizes, showing a gap between the header and the end of the page. To fix the bug I changed the code for the header CSS style.
+   - Changes to fix bug can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/a2e12e6f4a434de09851ef5cb798bcbe47230186).
+
+- Another bug I fixed was on the home page, where the text was not aligned with the image when doing responsive testing. I was able to fix the problem by changing the positioning code of the image and the text.
    - Changes to fix bug can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/66a5a0938ac8da5e3d7abd27b09444c6b02eab0a).
 
 ### Unfixed Bugs
