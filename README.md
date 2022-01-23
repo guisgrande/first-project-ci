@@ -1,7 +1,4 @@
- # Portifolio Project - 1
- README - not finished
-
- # Poker Coder
+# Poker Coder
 
 Poker Coder is a website designed with the purpose of teaching the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes the readers can understand what is necessary to start playing and having fun.
 
@@ -16,12 +13,19 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <details>
     <summary>Summary</summary>
 
- - [Wireframes and UX Design](#wireframes-and-ux-design).
+ - [Wireframes and Design](#wireframes-and-design).
    * [Wireframes](#wireframes).
-   * [UX Design](#ux-design).
+   * [UX/UI Design](#uxui-design).
+     * [Site owner goals](#site-owner-goals).
+     * [Colour sheme](#colour-scheme).
+     * [Typography](#typography).
+     * [Imagery](#imagery).
  
  - [Features](#features).
    * [Existing Features](#existing-features).
+     * [Home page](#home-page).
+     * [History page](#history-page).
+     * [How to play page](#how-to-play-page).
    * [Features Left to Implement](#features-left-to-implement).
  
  - [Testing](#testing).
@@ -33,8 +37,12 @@ The Poker Coder will be searched by those who don't know how to play poker and w
    * [Unfixed Bugs](#unfixed-bugs).
  
  - [Deployment](#deployment).
+   * [Deployment](#deployment).
+   * [Fork](#fork).
+   * [Clone](#clone).
 
  - [Credits](#credits). 
+   * [Technologies and tools](#technologies-and-tools).
    * [Content](#content).
    * [Media](#media)
    * [Inspiration](#inspiration).
@@ -132,21 +140,23 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <img src="assets/readme-images/footer-hover.png">
 </div>
 
-- __Home page - About Section__
+#### Home page
+
+- __About Section__
   - This section was created with the intention of introducing the user to the website and explaining what information he/she will have access to. 
 
 <div align="center">
 <img src="assets/readme-images/Home-about.png">
 </div>
 
-- __Home page - Questions Section__
+- __Questions Section__
   - This section has two important questions that can draw the user's attention. What is poker explains the game in a short way and why shows some advantages and benefits that can be gained by playing.
 
 <div align="center">
 <img src="assets/readme-images/home-questions.png">
 </div>
 
-- __Home page - Players Section__
+- __Players Section__
   - The last section of the home page is intended to show users that there are no barriers to start playing. And that you can include anyone in the game.
   - The images try to portray the situations mentioned. I added a shadow effect to make the photos stand out.
 
@@ -154,7 +164,9 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <img src="assets/readme-images/home-players.png">
 </div>
 
-- __History page - History Section__
+#### History page
+
+- __History Section__
   - The history section is intended to give you some facts and a brief idea of how poker started.
   - It displays some overlapping photos to add a visual element. For copyright reasons, I preferred to use free photos instead of historical ones.
 
@@ -162,14 +174,14 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <img src="assets/readme-images/history-intro.png">
 </div>
 
-- __History page - Tournment Section__
+- __Tournment Section__
   - The tournament section is intended to show the user some of the biggest poker leagues in the world. To get a sense of the size and organization of the card game. 
  
 <div align="center">
 <img src="assets/readme-images/history-tournments.png">
 </div>
 
-- __History page - WSOP Last Champions Section__
+- __WSOP Last Champions Section__
   - The last section of this page presents information about the latest winners of poker's biggest event. To gauge how crowded these tournaments are.
   - The video is intended to show how a tournament is, the structure and also the dynamics of the game.
 
@@ -177,21 +189,23 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <img src="assets/readme-images/history-wsop.png">
 </div>
 
-- __How to Play page - How to play Section__
+#### How to play page
+
+- __How to play Section__
   - The first section is a brief introduction to the basics of how to play. It shows the user what he needs to learn the game.
 
 <div align="center">
 <img src="assets/readme-images/how-intro.png">
 </div>
 
-- __How to Play page - Rules Section__
+- __Rules Section__
   - The rules section informs the user of the main rules necessary to understand the game. With this information he/she will already understand poker.
 
 <div align="center">
 <img src="assets/readme-images/how-rules.png">
 </div>
 
-- __How to Play page - Ranking Hands Section__
+- __Ranking Hands Section__
   - In this section as a continuation of the essentials for playing, it shows the card combinations and what their value is within the game. It shows the user the possibilities in an orderly manner to facilitate understanding.
   - The image used in this section is intended to represent the information in a visual way. 
 
@@ -199,7 +213,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <img src="assets/readme-images/how-hands.png">
 </div>
 
-- __How to Play page - Bets and Positions Section__
+- __Bets and Positions Section__
   - The last section of the page, aims to show the user how the moves and bets behave and what the game sequence is. This increases the user's understanding of the dynamics.
   - The image used also has the intention of visually instructing the progress of the bets and moves on a poker table.
  
@@ -285,6 +299,21 @@ The Poker Coder will be searched by those who don't know how to play poker and w
   - The only observation is to try to improve the quality of the photos used in the players section of the home page
 
 ## Deployment
+
+- To create this project I used GitHub and GitPod.
+- I used the [Code Institute Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template), clicking on the "Use this template" button. From there I created the repository on Github with my username.
+
+### Deployment
+- To deploy the site to Github pages follow this steps:
+1. In the GitHub repository, select the Settings options.
+2. Scroll down until you find "GitHub Pages" section.
+3. 
+
+### Fork
+-
+
+### Clone
+-
 
 ## Credits
 
