@@ -41,9 +41,14 @@ The Poker Coder will be searched by those who don't know how to play poker and w
  
 </details> 
 
-## Wireframes and UX Design
+## Wireframes and Design
 
 ### Wireframes
+
+- The wireframe was created using the Balsamiq tool. The initial idea of comforft image was maintained during the creation of the code, with some adjustments in the layout to visually adapt the page. 
+  - The navigation inside the header on the right, I chose to leave it below the title and banner.
+  - I decided to put an image on the home page in the about section and not below the questions.
+  - I chose not to add images in the tournament section (page 2), to reduce visual information on the page.
 
 <details><summary>Page 01</summary>
 <div align="center">
@@ -63,11 +68,39 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 </div>
 </details>
 
-### UX Design
+### UX/UI Design
+
+#### Site owner goals
+
+- Teaching texas holdem poker to users.
+- Explain what the game is about.
+- Talk about the origins and major current events.
+- Attracting people's interest to learn poker.
+
+#### User stories
+
+- __First time user__
+  - 
+
+- __Returning user__
+  - 
+  
+- __Frequent user__
+  - 
+
+#### Colour scheme
+
+- The colors chosen for the composition of the site were a combination of 5 colors (white, black and 3 shades of gray), white used for all text and details, black for the background, and shades of gray for text boxes and section breaks. 
+- To highlight the header and footer I used two shades of yellow. 
+- Here is an image of the color palette (Coolors).
 
 <div align="center">
 <img src="assets/readme-images/colors-template.png" width="650">
 </div>
+
+#### Typography
+
+#### Imagery
 
 ## Features
 
@@ -194,7 +227,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - __Devices__
   - Apple: Iphone SE, Iphone 13 Pro Max, Iphone 8, Iphone XR, Iphone 12 Pro, Ipad Air, Ipad Mini.
   - Samsung: Galaxy S8+, Galaxy S20 Ultra, Galaxy A51/71, Galaxy Tab S4, Galaxy Note II.
-  - Motorola: MOto G4.
+  - Motorola: Moto G4.
   - LG: Optimus L70, Nexus 4, Nexus 10.
   - Google: Pixel 5, Pixel 3 XL.
 
@@ -245,7 +278,9 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ## Deployment
 
-## Credits 
+## Credits
+
+### Technologies and tools
 
 ### Content
 
