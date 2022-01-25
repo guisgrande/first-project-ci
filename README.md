@@ -8,7 +8,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 <img src="assets/readme-images/responsive-screens.png">
 
-## Content Navegation
+## Contents
 
 <details>
     <summary>Summary</summary>
@@ -49,9 +49,40 @@ The Poker Coder will be searched by those who don't know how to play poker and w
  
 </details> 
 
-## Wireframes and Design
+## UX/UI Designe
 
-### Wireframes
+### Strategy
+
+#### Site owner goals
+
+- The website was created to teaching texas holdem poker to users.
+- The website have the objective of explain what the game is about.
+- The website will talk about origins and major current events.
+- The website goal is attracting people's interest to learn poker.
+- The website should be simple to navigate and easy to read.
+
+#### User stories
+
+- As a user, I want to understand the purpose of the website, so I can know if it's of interest to me.
+- As a user, I want to easily navigate the site, so I don't lose enthusiasm for using the site.
+- As a user, I want to be able to learn something new, so I fulfill the objective that brought me to the site.
+- As a user, I want to have access to all the links, so I can connect if it interests me.
+- As a user, I want to see media (photos/videos) related to the main subject, so I can better understand what was explained. 
+
+### Scope
+
+
+
+### Structure
+
+- For the Poker Coder website I planned to separate the site into three pages. 
+    - The home page, which will be the introduction page of the site, will contain the introduction, questions to arouse interest and talk about the players.
+    - The second page will be about the history of poker, with a summary of the origins, the biggest competitions and the last winners of the most important event of the sport.
+    - The last page will be about how to actually play Texas Holdem Poker, with a brief introduction and three more sections: rules, hand rankings, betting, and table positioning.
+
+### Skeleton
+
+#### Wireframes
 
 - The wireframe was created using the Balsamiq tool. The initial idea of comforft image was maintained during the creation of the code, with some adjustments in the layout to visually adapt the page. 
   - The navigation inside the header on the right, I chose to leave it below the title and banner.
@@ -76,14 +107,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 </div>
 </details>
 
-### UX/UI Design
-
-#### Site owner goals
-
-- Teaching texas holdem poker to users.
-- Explain what the game is about.
-- Talk about the origins and major current events.
-- Attracting people's interest to learn poker.
+### Surface
 
 #### Colour scheme
 
@@ -287,7 +311,12 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Other Tests
 
-- To check accessibility, I did the test using WAVE from WebAIM. The site did not present any errors or alerts.
+- __Acessibility__
+
+- To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any errors or alerts. [Report](https://wave.webaim.org/report#/https://guisgrande.github.io/first-project-ci/)
+
+- __Site goals__
+    - 
 
 ### Fixed Bugs
 
@@ -313,6 +342,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
     * git push - to push all committed changes to the GitHub repository
 
 ### Deployment
+
 - To deploy the site to Github pages follow this steps:
 1. In the GitHub repository, select the Settings options.
 2. Scroll down until you find "GitHub Pages" section.
@@ -322,12 +352,14 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 6. Then click "Save".
 
 ### Fork
+
 - Forks let you make changes to a project without affecting the original repository. Follow this steps:
 1. Go to the repository page, can be accessed [here](https://github.com/guisgrande/first-project-ci).
 2. On top right, you select the Fork option and proceed.
 3. A duplicate will be created inside your repository.
 
 ### Clone
+
 - Clone let you create an identical repository to the original. Follow this steps:
 1. Go to the repository page, can be accessed [here](https://github.com/guisgrande/first-project-ci).
 2. Click on code drop down menu.
@@ -336,9 +368,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 5. Type git clone and then paste the URL you copied before.
 6. Press Enter to create your clone.
 
-## Credits
-
-### Technologies and tools
+## Technologies and tools
 
 - DevTools - to assist in the development of the project.
 - Gitpod - to create/edit the code of the project.
@@ -352,6 +382,8 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - [Google Fonts](https://fonts.google.com/) - Used for font selection.
 - [Balsamiq](https://balsamiq.com/) - Used to creat the wireframes.
 - [TinyPNG](https://tinypng.com/) - Used to reduce the size of images and photos.
+
+## Credits
 
 ### Content
 
@@ -368,3 +400,11 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Inspiration
 
 - Shadow and Gradients effects had as a query the following page for its implementation on the website. [W3Schools](https://www.w3schools.com).
+
+## Acknowledgements
+
+- Code Institute for all the support and the team always ready to help.
+- My mentor [Ben Kavanagh](https://github.com/BAK2K3) for all the instructions, advice and knowledge that helped me to improve the project.
+- My parents, my wife and my friends for motivating me to achieve my best.
+- Everyone in the Slack community for tips and opinions. 
+
