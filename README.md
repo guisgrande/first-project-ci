@@ -1,8 +1,8 @@
 # Poker Coder
 
-Poker Coder is a website designed with the purpose of teaching the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes the readers can understand what is necessary to start playing and having fun.
+Poker Coder is a website designed to teach the basics of the texas holdem poker game, explaining what the game is about, how it is played, and some of the history of this mind sport. With the content of the site in a few minutes, the readers can understand what is necessary to start playing and having fun.
 
-The Poker Coder will be searched by those who don't know how to play poker and would like to get started, it will be very useful for people who have no knowledge of the game because it deals in a direct way with what needs to be learned.
+The Poker Coder will be searched by those who don't know how to play poker and would like to get started, it will be very useful for people who do not know the game because it deals directly with all that need to learn.
 
   - Here is the link to the final project > [Poker Coder](https://guisgrande.github.io/first-project-ci/)
 
@@ -13,22 +13,25 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 <details>
     <summary>Summary</summary>
 
- - [Wireframes and Design](#wireframes-and-design).
-   * [Wireframes](#wireframes).
-   * [UX/UI Design](#uxui-design).
-     * [Site owner goals](#site-owner-goals).
-     * [Colour sheme](#colour-scheme).
-     * [Typography](#typography).
-     * [Imagery](#imagery).
- 
- - [Features](#features).
+- [UX/UI Design](#uxui-design).
+     * [Strategy](#strategy).
+     * [Scope](#scope).
+     * [Structure](#structure).
+     * [Skeleton](#skeleton).
+       * [Wireframes](#wireframes).
+     * [Surface](#surface).
+       * [Colour scheme](#colour-scheme).
+       * [Typography}(#typography).
+       * [Imagery](#imagery).
+   
+- [Features](#features).
    * [Existing Features](#existing-features).
      * [Home page](#home-page).
      * [History page](#history-page).
      * [How to play page](#how-to-play-page).
    * [Features Left to Implement](#features-left-to-implement).
  
- - [Testing](#testing).
+- [Testing](#testing).
    * [Navegation and Devices](#navegation-and-devices).
    * [Validator Testing](#validator-testing).
    * [Performance Testing](#performance-testing).
@@ -36,29 +39,32 @@ The Poker Coder will be searched by those who don't know how to play poker and w
    * [Fixed Bugs](#fixed-bugs).
    * [Unfixed Bugs](#unfixed-bugs).
  
- - [Deployment](#deployment).
+- [Deployment](#deployment).
    * [Deployment](#deployment).
    * [Fork](#fork).
    * [Clone](#clone).
+  
+- [Technologies and tools](#technologies-and-tools).
 
- - [Credits](#credits). 
-   * [Technologies and tools](#technologies-and-tools).
+- [Credits](#credits). 
    * [Content](#content).
    * [Media](#media)
    * [Inspiration](#inspiration).
  
+- [Acknowledgements](#acknowledgements).
+ 
 </details> 
 
-## UX/UI Designe
+## UX/UI Design
 
 ### Strategy
 
 #### Site owner goals
 
-- The website was created to teaching texas holdem poker to users.
+- The website was created to teach texas holdem poker to users.
 - The website have the objective of explain what the game is about.
 - The website will talk about origins and major current events.
-- The website goal is attracting people's interest to learn poker.
+- The website goal is to attract people's interest to learn poker.
 - The website should be simple to navigate and easy to read.
 
 #### User stories
@@ -71,20 +77,23 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 ### Scope
 
-
+- For the Poker Coder website I have planned the following features.
+    - Use images, text, and video for more varied content.
+    - Use of short texts and longer texts, so the reading doesn't get too tiring.
+    - Use technologies and tools that improve site development and performance.
 
 ### Structure
 
 - For the Poker Coder website I planned to separate the site into three pages. 
     - The home page, which will be the introduction page of the site, will contain the introduction, questions to arouse interest and talk about the players.
     - The second page will be about the history of poker, with a summary of the origins, the biggest competitions and the last winners of the most important event of the sport.
-    - The last page will be about how to actually play Texas Holdem Poker, with a brief introduction and three more sections: rules, hand rankings, betting, and table positioning.
+    - The last page will be about how to play Texas Holdem Poker, with a brief introduction and three more sections: rules, hand rankings, betting, and table positioning.
 
 ### Skeleton
 
 #### Wireframes
 
-- The wireframe was created using the Balsamiq tool. The initial idea of comforft image was maintained during the creation of the code, with some adjustments in the layout to visually adapt the page. 
+- The wireframe was created using the Balsamiq tool. The initial idea of comfort image was maintained during the creation of the code, with some adjustments in the layout to visually adapt the page. 
   - The navigation inside the header on the right, I chose to leave it below the title and banner.
   - I decided to put an image on the home page in the about section and not below the questions.
   - I chose not to add images in the tournament section (page 2), to reduce visual information on the page.
@@ -111,9 +120,9 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 #### Colour scheme
 
-- The colors chosen for the composition of the site were a combination of 5 colors (white, black and 3 shades of gray), white used for all text and details, black for the background, and shades of gray for text boxes and section breaks. 
+- The colors chosen for the composition of the site were a combination of 5 colors (white, black, and 3 shades of gray), white used for all text and details, black for the background, and shades of gray for text boxes and section breaks. 
 - To highlight the header and footer I used two shades of yellow. 
-- Here is an image of the color palette (Coolors).
+- Here is an image of the color palette used on the website (source: Coolors.io).
 
 <div align="center">
 <img src="assets/readme-images/colors-template.png" width="650">
@@ -122,7 +131,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 #### Typography
 
 - The fonts were selected from Google Fonts. 
-  - For the titles the font chosen was Robot Slab (Regular 400).
+  - For the titles, the font chosen was Robot Slab (Regular 400).
   - For the body of the website the font chosen was Roboto Mono (Light 300).
   - The font selected as the second option in case of any loading problems was san-serif.
 
@@ -155,7 +164,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 </div>
 
 - __Footer__
-  - Present on all pages as well, has icons to direct users to social network pages. The links open in a new page. It is intended to create a connection with the users.
+  - Present on all pages as well, has icons to direct users to social network pages. The links open on a new page. It is intended to create a connection with the users.
   - I added a hover effect on the social media icons to make them stand out more when selecting them.
 
 <div align="center">
@@ -207,7 +216,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 
 - __WSOP Last Champions Section__
   - The last section of this page presents information about the latest winners of poker's biggest event. To gauge how crowded these tournaments are.
-  - The video is intended to show how a tournament is, the structure and also the dynamics of the game.
+  - The video is intended to show how a tournament is, the structure, and also the dynamics of the game.
 
 <div align="center">
 <img src="assets/readme-images/history-wsop.png">
@@ -223,14 +232,14 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 </div>
 
 - __Rules Section__
-  - The rules section informs the user of the main rules necessary to understand the game. With this information he/she will already understand poker.
+  - The rules section informs the user of the main rules necessary to understand the game. With this information, the user will already understand poker.
 
 <div align="center">
 <img src="assets/readme-images/how-rules.png">
 </div>
 
 - __Ranking Hands Section__
-  - In this section as a continuation of the essentials for playing, it shows the card combinations and what their value is within the game. It shows the user the possibilities in an orderly manner to facilitate understanding.
+  - In this section as a continuation of the essentials for playing, shows the card combinations and what their value is within the game. It shows the user the possibilities in an orderly manner to facilitate understanding.
   - The image used in this section is intended to represent the information in a visual way. 
 
 <div align="center">
@@ -289,7 +298,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Performance Testing
 
 - __Lighthouse DevTools__
-   - I used a Lighthouse tool to check a performance, accessibility, best practices and SEO on each of the pages.
+   - I used a Lighthouse tool to check performance, accessibility, best practices, and SEO on each of the pages.
 
 1. Home Page
 
@@ -312,24 +321,28 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Other Tests
 
 - __Acessibility__
-
-- To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any errors or alerts. [Report](https://wave.webaim.org/report#/https://guisgrande.github.io/first-project-ci/)
+    - To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any errors or alerts. [Report](https://wave.webaim.org/report#/https://guisgrande.github.io/first-project-ci/)
 
 - __Site goals__
-    - 
+    - After finishing the website, I went back to check if the goals had been achieved. I sent the website to about 12 people (friends and family) all considering that the objectives were met.
+     - Once tested, the website can teach texas Holdem to users.
+     - Once tested, the website can explain what the game is about.
+     - Once tested, the website can talk about origins and major current events.
+     - Once tested, the website has the potential to attract users' attention to learning poker.
+     - Once tested, the website is simple to navigate and easy to read.
 
 ### Fixed Bugs
 
 - The first bug fixed was in the header, where it was not fixing 100% of the width of the page on certain screen sizes, showing a gap between the header and the end of the page. To fix the bug I changed the code for the header CSS style.
-   - Changes to fix bug can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/a2e12e6f4a434de09851ef5cb798bcbe47230186).
+   - Changes to fix bugs can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/a2e12e6f4a434de09851ef5cb798bcbe47230186).
 
 - Another bug I fixed was on the home page, where the text was not aligned with the image when doing responsive testing. I was able to fix the problem by changing the positioning code of the image and the text.
-   - Changes to fix bug can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/66a5a0938ac8da5e3d7abd27b09444c6b02eab0a).
+   - Changes to fix bugs can be seen here. [Commit](https://github.com/guisgrande/first-project-ci/commit/66a5a0938ac8da5e3d7abd27b09444c6b02eab0a).
 
 ### Unfixed Bugs
 
 - I have not identified any bugs to be fixed when finalizing the project. 
-  - The only observation is to try to improve the quality of the photos used in the players section of the home page
+  - The only observation is to try to improve the quality of the photos used in the players section of the home page.
 
 ## Deployment
 
