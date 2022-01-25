@@ -21,7 +21,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
        * [Wireframes](#wireframes).
      * [Surface](#surface).
        * [Colour scheme](#colour-scheme).
-       * [Typography}(#typography).
+       * [Typography](#typography).
        * [Imagery](#imagery).
    
 - [Features](#features).
