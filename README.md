@@ -36,7 +36,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
    * [Validator Testing](#validator-testing).
    * [Performance Testing](#performance-testing).
    * [Other Tests](#other-tests).
-   * [User Story Testing](#user-story-testing)
+   * [User Story Testing](#user-story-testing).
    * [Fixed Bugs](#fixed-bugs).
    * [Unfixed Bugs](#unfixed-bugs).
  
@@ -260,6 +260,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 ### Features Left to Implement
 
   - For the future, leave open the possibility of adding a page to simulate the game, giving the user a way to test the acquired knowledge and see how the game is played in practice.
+  - Create a meeting page, where users can meet to practice and discuss poker and coding.
 
 ## Testing
 
@@ -341,7 +342,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
     - Outcome: When the user visit the webpage, all the links in the footer are working correctly to connect to the social networks. __Passed__.
  
     - User Story 5: As a user, I want to see media (photos/videos) related to the main subject, so I can better understand what was explained.
-    - Outcome: When the user visit Poker Coder website, there is pictures related to the theme, a video demonstrating a match, and images that help to better explain the game.
+    - Outcome: When the user visit Poker Coder website, there is pictures related to the theme, a video demonstrating a match, and images that help to better explain the game. __Passed__.
 
 ### Fixed Bugs
 
