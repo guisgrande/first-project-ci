@@ -36,6 +36,7 @@ The Poker Coder will be searched by those who don't know how to play poker and w
    * [Validator Testing](#validator-testing).
    * [Performance Testing](#performance-testing).
    * [Other Tests](#other-tests).
+   * [User Story Testing](#user-story-testing)
    * [Fixed Bugs](#fixed-bugs).
    * [Unfixed Bugs](#unfixed-bugs).
  
@@ -323,13 +324,24 @@ The Poker Coder will be searched by those who don't know how to play poker and w
 - __Acessibility__
     - To check accessibility, I did the test using WAVE from WebAIM. The site didn't present any errors or alerts. [Report](https://wave.webaim.org/report#/https://guisgrande.github.io/first-project-ci/)
 
-- __Site goals__
-    - After finishing the website, I went back to check if the goals had been achieved. I sent the website to about 12 people (friends and family) all considering that the objectives were met.
-     - Once tested, the website can teach texas Holdem to users.
-     - Once tested, the website can explain what the game is about.
-     - Once tested, the website can talk about origins and major current events.
-     - Once tested, the website has the potential to attract users' attention to learning poker.
-     - Once tested, the website is simple to navigate and easy to read.
+### User Story Testing
+
+- __User Story__
+
+    - User Story 1: As a user, I want to understand the purpose of the website, so I can know if it's of interest to me.
+    - Outcome: When the user first visits the webpage, there is relevant imagery, the title of the website which explains the context, and clear legible text which confirms the content of the website. __Passed__.
+    
+    - User Story 2: As a user, I want to easily navigate the site, so I don't lose enthusiasm for using the site.
+    - Outcome: When the user visits the website, there is a navigation bar with a clear description of each page, and the titles of each section are explanatory. __Passed__.
+
+    - User Story 3: As a user, I want to be able to learn something new, so I fulfill the objective that brought me to the site.
+    - Outcome: When the user visit the website, there is a full page teaching how to play poker, and other sections with relevant information. __Passed__.
+    
+    - User Story 4: As a user, I want to have access to all the links, so I can connect if it interests me.
+    - Outcome: When the user visit the webpage, all the links in the footer are working correctly to connect to the social networks. __Passed__.
+ 
+    - User Story 5: As a user, I want to see media (photos/videos) related to the main subject, so I can better understand what was explained.
+    - Outcome: When the user visit Poker Coder website, there is pictures related to the theme, a video demonstrating a match, and images that help to better explain the game.
 
 ### Fixed Bugs
 
